@@ -1,4 +1,4 @@
-> Programme fait par : Félix TERRIEN / Gabriel PONS / Raphaël ZRIBI
+> Programme fait par : Félix TERRIEN / Raphaël ZRIBI / Gabriel PONS
 
 **Quel était votre projet initial ?**
 
