@@ -7,7 +7,7 @@ Notre but était de développer un prototype de notre projet `Sévigné Drawing 
 
 **Le programme fonctionne-t-il ? L’avez-vous éventuellement enrichi ?**
 
-Oui, le programme est fonctionnel et nous avons réussir à coder ce qui pourrait s'apparenter au fonctionnement de notre robot. Nous avons donc conçu un programme capable de retranscrire n'importe quel image en une version dessinable en noir et blanc. Pour cela nous avons utilisé [OpenCV](https://opencv.org) pour appliquer un filtre à l'image afin de la rendre dessinable puis [Turtle](docs.python.org/library/turtle.html) afin de dessiner l'image d'une façon semblable à celui de notre robot.
+Oui, le programme est fonctionnel et nous avons réussir à coder ce qui pourrait s'apparenter au fonctionnement de notre robot. Nous avons donc conçu un programme capable de retranscrire n'importe quel image en une version dessinable en noir et blanc. Pour cela nous avons utilisé [OpenCV](https://opencv.org) pour appliquer un filtre à l'image afin de la rendre dessinable puis [Turtle](https://docs.python.org/library/turtle.html) afin de dessiner l'image d'une façon semblable à celui de notre robot.
 
 
 **Quelles difficultés avez-vous rencontré ?**
