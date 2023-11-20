@@ -1,8 +1,6 @@
-> Programme fait par : Félix TERRIEN / Raphaël ZRIBI / Gabriel PONS
-
 **Quel était votre projet initial ?**
 
-Notre but était de développer un prototype de notre projet `Sévigné Drawing Bot` afin de s'imager son fonctionnement avant de procéder à la conception sur Arduino. Le projet `Sévigné Drawing Bot` est un robot automatisé qui pourrait reproduire une image ou un tracé numérique sur n’importe quel tableau. Le système serait portable et facile d’utilisation.
+Notre but était de développer un prototype de notre projet `SEV Drawing Bot` afin de s'imager son fonctionnement avant de procéder à la conception sur Arduino. Le projet `SEV Drawing Bot` est un robot automatisé qui pourrait reproduire une image ou un tracé numérique sur n’importe quel tableau. Le système serait portable et facile d’utilisation.
 
 
 **Le programme fonctionne-t-il ? L’avez-vous éventuellement enrichi ?**
